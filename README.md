@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Travis. I'm a USMC veteran earning my computer science degree with East Texas A&M University.
+- 👋 Hi, I’m Travis. I'm a USMC veteran and just earned my computer science degree with East Texas A&M University.
 - 👀 I’m interested in application development. I hope to eventually work on adaptive technologies for physical and cognitive disabilities.
 
 
